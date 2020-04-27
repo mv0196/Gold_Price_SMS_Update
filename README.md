@@ -21,17 +21,17 @@ The program fetches current gold price and send the respective message regarding
 You can download it from www.python.org .Install and setup python.
 
 Various modules required are:
-* json
+* json - Read and write JSON-encoded data using Python.
 ```
 pip install jason
 ```
 
-* requests
+* requests - A simple, yet elegant HTTP library.
 ```
 pip install requests
 ```
 
-* beautifulsoup
+* beautifulsoup - Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 ```
 pip install bs4
 ```
